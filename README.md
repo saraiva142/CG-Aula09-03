@@ -4,3 +4,7 @@
 
 
 <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/fe18a405-69cb-45db-bb0b-ff3abc707187" />
+
+Com cor (Albedo)
+
+<img width="1151" height="647" alt="image" src="https://github.com/user-attachments/assets/646626ec-ad5f-4eb8-b05f-f12e3c286b6e" />
